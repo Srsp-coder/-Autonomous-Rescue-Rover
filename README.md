@@ -11,7 +11,7 @@ In the critical hours following natural disasters, first responders face immense
 
 **Operate continuously** through optimized power management
 
-![Dashboard Screenshot]([https://example.com/screenshot.jpg](https://github.com/Srsp-coder/-Autonomous-Rescue-Rover/blob/main/images/Dashboard.png)) <!-- Add actual screenshot if available -->
+![Dashboard Screenshot](https://github.com/Srsp-coder/-Autonomous-Rescue-Rover/blob/main/images/Dashboard.png) <!-- Add actual screenshot if available -->
 
 A web-based dashboard for monitoring and controlling an autonomous rescue rover in disaster zones.
 
@@ -32,4 +32,16 @@ A web-based dashboard for monitoring and controlling an autonomous rescue rover 
   - Obstacle avoidance
   - Low-battery recharge protocol
   - Path navigation without GPS
+
+## Team Members
+| Role                | Student Name      |
+| ------------------- | ----------------- |
+|     Team Leader     | Sai Pranav SR     |
+| Team Member         |  Pretham Kumar K  |
+| Team Member         | Srri Hari TR      |
+| Team Member         |Rex Joson Deva R   |
+
+
+## Demo Video
+![Demo Video](video.mp4)
 
