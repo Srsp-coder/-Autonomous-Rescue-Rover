@@ -11,7 +11,7 @@ In the critical hours following natural disasters, first responders face immense
 
 **Operate continuously** through optimized power management
 
-![Dashboard Screenshot](https://example.com/screenshot.jpg) <!-- Add actual screenshot if available -->
+![Dashboard Screenshot]([https://example.com/screenshot.jpg](https://github.com/Srsp-coder/-Autonomous-Rescue-Rover/blob/main/images/Dashboard.png)) <!-- Add actual screenshot if available -->
 
 A web-based dashboard for monitoring and controlling an autonomous rescue rover in disaster zones.
 
