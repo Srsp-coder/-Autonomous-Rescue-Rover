@@ -43,5 +43,5 @@ A web-based dashboard for monitoring and controlling an autonomous rescue rover 
 
 
 ## Demo Video
-![Demo Video]([video.mp4](https://github.com/Srsp-coder/-Autonomous-Rescue-Rover/blob/main/images/Demo.mp4))
+https://drive.google.com/file/d/1OjbpP18u3Mq_hIPsRP_YU8OTgl_LeyLb/view?usp=sharing
 
