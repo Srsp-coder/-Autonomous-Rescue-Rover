@@ -49,3 +49,4 @@ https://drive.google.com/file/d/1OjbpP18u3Mq_hIPsRP_YU8OTgl_LeyLb/view?usp=shari
 [Synthetix_PPT.pdf](https://github.com/user-attachments/files/19566034/Synthetix_PPT.pdf)
 
 ## Simulation
+https://drive.google.com/file/d/1OjbpP18u3Mq_hIPsRP_YU8OTgl_LeyLb/view?usp=sharing
