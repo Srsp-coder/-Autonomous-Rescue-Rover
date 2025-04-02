@@ -43,7 +43,14 @@ A web-based dashboard for monitoring and controlling an autonomous rescue rover 
 
 
 ## Demo Video
+Video 1:
+https://github.com/user-attachments/assets/ce638dce-ec32-4c32-afba-f332f2855305
+
+Video 2:
 https://drive.google.com/file/d/1OjbpP18u3Mq_hIPsRP_YU8OTgl_LeyLb/view?usp=sharing
+
+
+
 
 ## Presentation
 [Synthetix_PPT.pdf](https://github.com/user-attachments/files/19566034/Synthetix_PPT.pdf)
